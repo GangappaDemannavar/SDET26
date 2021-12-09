@@ -8,6 +8,8 @@ public class SampleTest {
 	{
 		System.out.println("Hi how u i m tested");
 		System.out.println("Test Yantra");
+		
+		System.out.println("Test yantra new user");
 	}
 
 }
