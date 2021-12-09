@@ -7,6 +7,7 @@ public class SampleTest {
 	public void test()
 	{
 		System.out.println("Hi how u i m tested");
+		System.out.println("Test Yantra");
 	}
 
 }
